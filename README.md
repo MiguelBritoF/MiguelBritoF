@@ -11,4 +11,4 @@
   <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Miguel-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
-![Snake animation](https://github.com/MiguelBritoF/MiguelBritoF/blob/output/github-contribution-grid-snake.svg)
+
